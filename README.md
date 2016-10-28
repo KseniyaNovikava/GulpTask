@@ -1,12 +1,11 @@
-GulpTask
+#GulpTask
 
-Run tests:
-gulp protractor --argument=value
+__Run tests:__
+'gulp protractor --argument=value'
 
-Arguments:
---browser=chrome/firefox
---tag=@ignore/@companies/@authorization
+__Arguments:__
+'--browser=chrome/firefox'
+'--tag=@ignore/@companies/@authorization'
 
-Run in parallel
-
-gulp protractor-multi
+__Run in parallel:__
+'gulp protractor-multi'
